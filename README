@@ -1,8 +1,12 @@
-This directory contains source code for libmedia_shell_content_view.so.
+This directory contains source code for libcast_shell_android.so.
 
 To build this file, download the source code and object files below for the version you want.
 
-The appropriate README is at cast-shell/build/README.
+Source code for ver 22246:
+    The appropriate README is at chromecast/internal/build/lgpl/README
+    x86: https://docs.google.com/file/d/0B3j4zj2IQp7MWWpFeE81VmtzeTg/edit
+    arm: https://docs.google.com/file/d/0B3j4zj2IQp7McG1vaU5xOGhaTmc/edit
 
 Source code for ver 2.1.0:
+    The appropriate README is at cast-shell/build/README.
     https://drive.google.com/file/d/0B3j4zj2IQp7MMGxmZlZKOFhPYlE/edit
