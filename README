@@ -2,6 +2,11 @@ This directory contains source code for libcast_shell_android.so.
 
 To build this file, download the source code and object files below for the version you want.
 
+Source code for build 28389:
+    The appropriate README is at chromecast/internal/build/lgpl/README-[arch]
+    x86: https://drive.google.com/file/d/0B3j4zj2IQp7MbnRrUGxhVk04QUU/view
+    arm: https://drive.google.com/file/d/0B3j4zj2IQp7MSDN0YmJPRUZGSGs/view
+
 Source code for build 25525:
     The appropriate README is at chromecast/internal/build/lgpl/README-[arch]
     x86: https://drive.google.com/file/d/0B3j4zj2IQp7MNHlZSFBGa1BrOVE/view
